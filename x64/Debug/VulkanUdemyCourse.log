@@ -1,0 +1,6 @@
+﻿  VulkanRenderer.cpp
+E:\vulkan\project\VulkanUdemyCourse\VulkanRenderer.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  VulkanUdemyCourse.vcxproj -> E:\vulkan\project\VulkanUdemyCourse\x64\Debug\VulkanUdemyCourse.exe
