@@ -1,3 +1,0 @@
-﻿  VulkanRenderer.cpp
-E:\vulkan\project\VulkanUdemyCourse\VulkanRenderer.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
-  VulkanUdemyCourse.vcxproj -> E:\vulkan\project\VulkanUdemyCourse\x64\Debug\VulkanUdemyCourse.exe
